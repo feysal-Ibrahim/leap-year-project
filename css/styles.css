@@ -1,0 +1,21 @@
+body
+{
+background-color:white;
+}
+
+.container
+{
+width:220px;
+position:relative;
+left:15px;
+top:20px;
+height:40px;
+}
+#result
+{
+background-color:red;
+}
+.btn
+{
+  background-color:yellow;
+}
